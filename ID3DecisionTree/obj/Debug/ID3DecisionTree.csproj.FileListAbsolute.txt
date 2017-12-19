@@ -1,0 +1,6 @@
+c:\users\carsonroscoe\documents\visual studio 2015\Projects\ID3DecisionTree\ID3DecisionTree\bin\Debug\ID3DecisionTree.exe.config
+c:\users\carsonroscoe\documents\visual studio 2015\Projects\ID3DecisionTree\ID3DecisionTree\bin\Debug\ID3DecisionTree.exe
+c:\users\carsonroscoe\documents\visual studio 2015\Projects\ID3DecisionTree\ID3DecisionTree\bin\Debug\ID3DecisionTree.pdb
+c:\users\carsonroscoe\documents\visual studio 2015\Projects\ID3DecisionTree\ID3DecisionTree\obj\Debug\ID3DecisionTree.csprojResolveAssemblyReference.cache
+c:\users\carsonroscoe\documents\visual studio 2015\Projects\ID3DecisionTree\ID3DecisionTree\obj\Debug\ID3DecisionTree.exe
+c:\users\carsonroscoe\documents\visual studio 2015\Projects\ID3DecisionTree\ID3DecisionTree\obj\Debug\ID3DecisionTree.pdb
